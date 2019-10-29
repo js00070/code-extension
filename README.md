@@ -1,4 +1,4 @@
-# Json Language Server
+# vscode Language Server 插件测试
 
 ## Install Server Dependencies
 
@@ -14,6 +14,7 @@ Open terminal and execute following commands:
 
 ## Run Example
 
+1. RUN `python __main__.py --tcp`
 1. Open this directory in VS Code
 1. Open debug view (`ctrl + shift + D`)
 1. Select `Server + Client` and press `F5`
